@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'webprovipv02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07835496039B4D76B6E0CA1FF6A52FA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DFA64C3E1834246A8AA1B273A54F93D }}
